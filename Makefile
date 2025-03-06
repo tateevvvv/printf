@@ -1,6 +1,6 @@
 NAME = libftprintf.a
 CC = cc
-CFLAGS = -Wal -Wextra -Werror
+CFLAGS = -Wall -Wextra -Werror
 SRCS = ft_printf.c \
 		ft_putchr.c \
 		ft_putnbr.c \
